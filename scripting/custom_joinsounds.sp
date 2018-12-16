@@ -7,7 +7,7 @@
 #include <multicolors>
 
 #define MAX_JNAME_LENGTH 64
-#define MAX_VOLUME_LENGTH 5
+#define MAX_VOLUME_LENGTH 6
 #define MAX_FLAGS_LENGTH 21
 #define MAX_PATH_LENGTH PLATFORM_MAX_PATH + 1
 
